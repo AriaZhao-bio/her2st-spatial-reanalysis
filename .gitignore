@@ -3,6 +3,7 @@
 .RData
 .RDataTmp
 
-data/raw/
+data/raw/*
+!data/raw/gene_sets/
 data/interim/
 data/processed/
