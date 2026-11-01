@@ -1,0 +1,9 @@
+"patient","sample_id","expression_spots","pathology_rows","pathology_rows_with_missing_grid_coordinates","matched_spots","unmatched_expression_spots","unused_valid_pathology_rows"
+"A","A1",345,348,0,345,0,3
+"B","B1",262,295,0,262,0,33
+"C","C1",174,177,0,174,0,3
+"D","D1",306,309,0,306,0,3
+"E","E1",586,587,0,586,0,1
+"F","F1",691,692,1,691,0,0
+"G","G2",466,475,8,466,0,1
+"H","H1",607,613,0,607,0,6

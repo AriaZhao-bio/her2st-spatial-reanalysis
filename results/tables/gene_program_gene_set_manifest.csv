@@ -1,0 +1,5 @@
+"program","display_label","gene_set_name","source","number_of_requested_genes","file","md5"
+"HER2_17q12","HER2/17q12 amplicon","HER2_17Q12_CORE","https://pubmed.ncbi.nlm.nih.gov/16708353/",9,"data/raw/gene_sets/HER2_17Q12_CORE.gmt","9ec8877636d8a3c45dd8e4c4efe61f60"
+"Proliferation_E2F","Proliferation (E2F)","HALLMARK_E2F_TARGETS","https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_E2F_TARGETS",200,"data/raw/gene_sets/HALLMARK_E2F_TARGETS.gmt","48630da69280256449c27f267d16730e"
+"Hypoxia","Hypoxia","HALLMARK_HYPOXIA","https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_HYPOXIA",200,"data/raw/gene_sets/HALLMARK_HYPOXIA.gmt","40ddea8d4aad7065f9370a9246c9dbf6"
+"EMT_stromal","EMT/stromal","HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION","https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION",200,"data/raw/gene_sets/HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION.gmt","cab0bbb95fb7cca5b78a877a03d4d15c"

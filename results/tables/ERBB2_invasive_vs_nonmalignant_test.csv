@@ -1,0 +1,2 @@
+"comparison","independent_unit","number_of_patients","patients_with_positive_delta","median_patient_delta","hodges_lehmann_pseudomedian","confidence_level","confidence_interval_low","confidence_interval_high","test","statistic_V","exact_p_value"
+"Invasive cancer vs pooled nonmalignant regions","patient",8,8,0.455863812864872,0.496850228268281,0.95,0.251682002131595,0.780684606442005,"Two-sided exact one-sample Wilcoxon signed-rank test on patient deltas",36,0.0078125

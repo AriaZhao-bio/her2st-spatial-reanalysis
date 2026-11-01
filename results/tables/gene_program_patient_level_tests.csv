@@ -1,0 +1,5 @@
+"program","display_label","independent_unit","number_of_patients","patients_with_positive_delta","median_patient_delta","hodges_lehmann_pseudomedian","confidence_interval_low","confidence_interval_high","statistic_V","exact_p_value","BH_FDR"
+"HER2_17q12","HER2/17q12 amplicon","patient",8,8,0.208103536508551,0.214783849062195,0.139413618532845,0.370304269888331,36,0.0078125,0.0104166666666667
+"Proliferation_E2F","Proliferation (E2F)","patient",8,8,0.178653589336343,0.167024364677389,0.0865708525353147,0.356126337719696,36,0.0078125,0.0104166666666667
+"Hypoxia","Hypoxia","patient",8,8,0.0798460160878277,0.0845302728184684,0.0289638086394919,0.220195447329698,36,0.0078125,0.0104166666666667
+"EMT_stromal","EMT/stromal","patient",8,5,0.0390428414176546,0.0632341589472177,-0.0436618722952493,0.189658489731435,27,0.25,0.25
